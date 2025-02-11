@@ -1,4 +1,4 @@
-<img width="250" align="right" src="https://tenor.com/view/hello-world-animation-hello-coding-gif-1378121840400141809">
+<img width="250" align="right" src="https://media.tenor.com/Yh_dC1b9EgIAAAAC/hello-world-animation.gif">
 
 <h3 align="center">
   Welcome to Abdelrahman Mohamed Hussein's profile!
