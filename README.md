@@ -1,7 +1,7 @@
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif](https://tenor.com/view/hello-world-animation-hello-coding-gif-1378121840400141809">
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
-  Welcome to Abdelrahman Mohamed Hussein Ahmed's profile!
+  Welcome to Abdelrahman Mohamed Hussein's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
