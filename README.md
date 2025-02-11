@@ -1,4 +1,4 @@
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif](https://tenor.com/view/hello-world-animation-hello-coding-gif-1378121840400141809">
 
 <h3 align="center">
   Welcome to Abdelrahman Mohamed Hussein Ahmed's profile!
@@ -10,8 +10,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20Developer;Video%20Editor;Problem%20Solver;Always%20Learning&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🎓 Studying Computer & Informatics at Suez Canal University
-- 👨‍💻 Passionate about Flutter development & motion graphics
+- 🎓 Studying Computer Science at Suez Canal University
+- 👨‍💻 Passionate about Flutter development & Video Editing 
 - 💡 Interested in problem-solving & competitive programming
 - 🎯 Always exploring new technologies and improving my skills
 - 💬 Ask me about Flutter, Dart, and video editing
